@@ -8,7 +8,9 @@ Lab 1: Data preprocessing with 4 functions:
  
 *Datasets: Abalone Data Set, Bank Marketing Data Set, Metro Traffic Volume Data Set
 
+
 Lab 3: Clustering with K-Means on gesture_phase_dataset
+
 
 Project: Classification - Predict if the client will subscribe a term deposit - Bank Marketing Data Set. Using:
  1. KNN
