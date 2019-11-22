@@ -5,6 +5,7 @@ Lab 1: Data preprocessing with 4 functions:
  2. Missing values Replacing
  3. Discretizing
  4. Numeric attributes Normalization with Min-max and Z-score
+ 
 *Datasets: Abalone Data Set, Bank Marketing Data Set, Metro Traffic Volume Data Set
 
 Lab 3: Clustering with K-Means on gesture_phase_dataset
